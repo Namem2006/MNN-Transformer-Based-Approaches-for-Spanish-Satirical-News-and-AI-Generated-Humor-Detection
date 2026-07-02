@@ -1,0 +1,1 @@
+# MNN-Transformer-Based-Approaches-for-Spanish-Satirical-News-and-AI-Generated-Humor-Detection
