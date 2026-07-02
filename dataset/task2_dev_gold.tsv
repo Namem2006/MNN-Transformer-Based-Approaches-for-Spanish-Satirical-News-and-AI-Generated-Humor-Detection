@@ -1,0 +1,385 @@
+id	headline	joke	tag
+t2_0013	Nueva interfaz cerebral interpreta monólogos internos con sorprendente precisión	¿Cómo van a hacer con mi radioteatro interno de 50 capítulos y 100 personajes?	human
+t2_0014	Se desplomó el techo del estadio argentino donde se iba a presentar el Cuarteto de Nos: el mensaje de la banda	Al cielo nooooo.	human
+t2_0015	Un anciano fue a pedir un préstamo para cuidar a su esposa y recibió una respuesta que lo dejó sin palabras	Esa mujer no es su esposa, en este lugar no damos préstamos y usted no es un anciano. Así que vuelva a la escuela niño!	human
+t2_0016	De Canelones a Montevideo: la Policía persiguió a un hombre con más de 21 antecedentes durante 20 kilómetros	¿20 kilómetros persiguiéndolo? ¡Ese hombre convirtió la persecución en un tour turístico Canelones-Montevideo con escolta policial! Seguro al final les pidió que lo dejaran en la puerta del hotel y les puso una buena calificación en Google Maps.	machine
+t2_0017	La cuenta regresiva más larga: La fecha que la ciencia ha marcado para el fin de la Tierra	¿Por qué es la cuenta regresiva del fin de la Tierra la más larga? Porque dura tanto que ¡hasta los mayas la tacharon del calendario por aburrimiento!	machine
+t2_0018	El avión comercial más fabricado de la historia cumple 90 años y aún opera	Todo bien, pero yo no dejaría que un avión me haga una operación, ¡y menos si dura 90 años!	human
+t2_0019	La fulminante respuesta de Cristiano Ronaldo ante una pregunta sobre el Balón de Oro	Cuando le preguntaron a Cristiano sobre el Balón de Oro, respondió tan rápido que hasta su ego tuvo que pedirle que repitiera más despacio.	machine
+t2_0020	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	En Santiago del Estero secuestraron 25 kilos de milanesas hechas con papel higiénico. ¡No era fraude alimentario, era una dieta extrema: comes y ya te limpias solo!	machine
+t2_0021	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	Arrancan justo cuando te acordás de todos los trabajos que tenías que entregar antes	machine
+t2_0022	Hallaron ropa de la tienda en locker de empleada, la echaron y la jugada les salió pésimo	"- ¿Qué le dijo la empleada a la tienda cuando la despidieron?
+- ""¡Tranquilos, la ropa iba de salida!"" Y vaya que les salió caro el chistecito..."	machine
+t2_0023	YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas	"Todas empiezan con ""cucu temu!""."	human
+t2_0024	El “padrino de la IA” revela el único camino posible para sobrevivir a la superinteligencia artificial	Desenchufar la computadora.	human
+t2_0025	El caso de la azafata de Ezeiza: la curiosa historia del contrabando de oro en Argentina	"Amiga - ¿Estás con mucho trabajo?
+Azafata - Sí, a doble T.
+Amiga - ¿Doble T? ¿Doble turno?
+Azafata - No, con Trabajo y con Trabando"	human
+t2_0026	Cuáles son los efectos de incluir robots en la educación y cómo es su impacto en el rendimiento de los estudiantes	Es un muy buen efecto, los robots son mucho mejores alumnos, hacen todos los deberes y no piden plata para la merienda.	human
+t2_0027	Nueva interfaz cerebral interpreta monólogos internos con sorprendente precisión	¡Genial! Ahora mi cerebro puede criticarme con un 99% de precisión en lugar de solo un 85%.	machine
+t2_0028	Se desplomó el techo del estadio argentino donde se iba a presentar el Cuarteto de Nos: el mensaje de la banda	Nos encanta, siempre quisimos hacer un show a cielo abierto.	human
+t2_0029	Cuáles son los efectos de incluir robots en la educación y cómo es su impacto en el rendimiento de los estudiantes	"- Mamá ¿Sabés qué hizo el profe en la escuela hoy? Robó
+- ¿Robots? 
+- ¡Ah, sí, eso!"	human
+t2_0030	Los misterios del Mar Muerto: cómo se forman sus impresionantes estructuras de sal	¿Por qué las estructuras de sal del Mar Muerto son tan impresionantes? Porque se forman por evaporación... ¡el mar se seca de risa al ver que no hay ni un pez para quejarse del sabor!	machine
+t2_0031	El caso de la azafata de Ezeiza: la curiosa historia del contrabando de oro en Argentina	"La azafata de Ezeiza contrabandeaba oro porque quería un ""vuelo"" con quilates... ¡pero terminó aterrizando en la cárcel por exceso de peso en la maleta!"	machine
+t2_0032	Se desplomó el techo del estadio argentino donde se iba a presentar el Cuarteto de Nos: el mensaje de la banda	Menos mal que el techo se cayó antes del concierto, ¡porque si no, el show hubiera sido literalmente... demoledor!	machine
+t2_0033	Restaurante vegano de Nueva York volverá a servir carne para atraer más clientes	Se dieron cuenta de que, si no, no tenían público en inviegno.	human
+t2_0034	El caso de la azafata de Ezeiza: la curiosa historia del contrabando de oro en Argentina	La azafata de Ezeiza cayó por contrabando de oro: la delató su anuncio de seguridad — “abrochen los cinturones y, por favor, apaguen sus joyas”.	machine
+t2_0035	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper	¡Porque ese deporte hace 30 años que desapareció!	human
+t2_0036	YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas	"Y afirma, el ""feed"" no estaba rico, le faltaba sal. "	human
+t2_0037	De Canelones a Montevideo: la Policía persiguió a un hombre con más de 21 antecedentes durante 20 kilómetros	Parece que este hombre tiene más antecedentes que un abogado tiene clients, y la policía tiene más trabajo persiguiéndolo que un GPS tiene actualizaciones de mapa.	machine
+t2_0038	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	Eran milanesas doble hoja: absorbían el aceite y las lágrimas del que las probaba.	machine
+t2_0039	Cuál es el virus que explica el fenómeno de los conejos con tentáculos raros en Estados Unidos	"El bien conocido virus ""fenómenodelosconejoscontentaculosrarosenestadosunidos""."	human
+t2_0040	Los misterios del Mar Muerto: cómo se forman sus impresionantes estructuras de sal	No culpo al Mar Muerto por crear estructuras de sal dramáticas. Yo también estaría salado si nadie pudiera nadar en mí.	machine
+t2_0041	YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas	Resulta que YouTube Music ya puede recommendsar canciones de manera personalizada, pero todavía no puede recomendar canciones que te gusten cuando estás estresado y tienes que pedirles a tus abuelos que te paren los anuncios cada dos por tres.	machine
+t2_0042	"""Atención peñarolenses"": la advertencia de Peñarol para quienes vayan en ómnibus al Campeón del Siglo"	Vamos a perder.	human
+t2_0043	El “padrino de la IA” revela el único camino posible para sobrevivir a la superinteligencia artificial	Seguí recto, al fondo cuando veas una ANCAP doblá a la derecha.	human
+t2_0044	YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas	YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas: tan personalizado que hoy me sugirió “Canciones para posponer el gym”, “Lo-fi para ignorar mails” y un remix de “Paga la suscripción” en loop.	machine
+t2_0045	Precio de Tesla usados en EE.UU. cae por debajo de la media del mercado	"¡Los precios de los Tesla usados han caído por debajo de la media del mercado! Al fin un auto eléctrico que no te deja ""en medias"" después de la compra."	machine
+t2_0046	Atención peñarolenses: la advertencia de Peñarol para quienes vayan en ómnibus al Campeón del Siglo	"""Atención peñarolenses: si van en ómnibus al Campeón del Siglo, asegúrense de llevar bocadillos... ¡porque el único gol que verán es el del chofer al pasar por el peaje!"""	machine
+t2_0047	La tierna despedida de Mohamed Salah a Darwin Núñez y la curiosa advertencia del uruguayo	Cuidado con los modelos de IA.	human
+t2_0048	Paso a paso, cómo será votar por primera vez con Boleta Única Papel en las elecciones del 26 de octubre	¿Votar por primera vez con Boleta Única Papel? ¡Es como aprender a usar palillos chinos con un tutorial de origami! Al final, terminás comiendo con las manos y preguntándote si no era más fácil usar un tenedor.	machine
+t2_0049	Restaurante vegano de Nueva York volverá a servir carne para atraer más clientes	"Parece que el restaurante vegano quería hacer un ""cambio de carne"", porque con la comida vegana solo tenían unos clientes, pero ahora esperan tener un ""rebaño"" de ellos."	machine
+t2_0050	Por qué la amabilidad no es algo opcional	¿Por qué la amabilidad no es algo opcional: porque si lo fuera, los lunes serían feriados nacionales.	machine
+t2_0051	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	Te contesto sin problema, pero no me llamo Descanso.	human
+t2_0052	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	Este es el verdadero destino de las toneladas de papel higiénico compradas durante la pandemia.	human
+t2_0053	Histórico hallazgo: una carta de San Martín revela vínculos clave en la independencia sudamericana	URGENTE: Acaban de encontrar una carta de San Martín que arroja datos interesantes sobre la independencia sudamericana. Sin embargo, la carta aún no aclara el misterio de en qué momento de ese proceso histórico Martín pasó a ser santo.	human
+t2_0054	¿Cómo se comportó el mercado de trabajo entre abril y junio, según el INE?	Se comportó muy bien. Hizo todos los días los deberes y no faltó ni un solo día a clase.	human
+t2_0055	El revolucionario y polémico plan de la Fórmula 1 para que haya paridad de motores en 2026	Los autos deberán ser los de Los Picapiedras.	human
+t2_0056	Se desplomó el techo del estadio argentino donde se iba a presentar el Cuarteto de Nos: el mensaje de la banda	Hace años no la podemos sacar del estadio y ahora encima se nos cae el techo arriba.	human
+t2_0057	¿Cómo se comportó el mercado de trabajo entre abril y junio, según el INE?	Según el INE, el mercado laboral entre abril y junio... ¡fue a la playa! Subieron los contratos temporales, pero solo para servir helados.	machine
+t2_0058	Restaurante vegano de Nueva York volverá a servir carne para atraer más clientes	Después de años siendo vegano, el restaurante finalmente decidió admitir que necesitaba más CARNE en el asunto.	machine
+t2_0059	El “padrino de la IA” revela el único camino posible para sobrevivir a la superinteligencia artificial	"Inmediatamente la ""Madrina de la IA"" le dijo que se deje de decir tonterías, se levante del sillón y vaya a buscar a los niños a la escuela."	human
+t2_0060	¿Cómo se comportó el mercado de trabajo entre abril y junio, según el INE?	Muy INEstable.	human
+t2_0061	El avión comercial más fabricado de la historia cumple 90 años y aún opera	¡Cómo será ese pulso para que teniendo 90 años aún opere!	human
+t2_0062	Estudio confirma que vivir en ciudades más transitables aumenta los pasos diarios	Desde que vivo en una ciudad “más transitable”, doy tantos pasos que mi Uber me escribe: “estoy a 5 minutos… de distancia caminando, ¡suerte!”.	machine
+t2_0063	Todo el mundo está desinstalando Spotify: ¿qué está sucediendo?	¡¡Salió un nuevo tema de Arjona!! 	human
+t2_0064	"""Atención peñarolenses"": la advertencia de Peñarol para quienes vayan en ómnibus al Campeón del Siglo"	Está prohibido tomar mate, salivar y hablar con el conductor.	human
+t2_0065	Un anciano fue a pedir un préstamo para cuidar a su esposa y recibió una respuesta que lo dejó sin palabras	"—Vengo a pedir un préstamo para cuidar a mi esposa.
+—Se lo damos sin intereses.
+—… ¿Cómo?
+—Claro: el interés ya lo pone usted; nosotros solo ponemos el dinero."	machine
+t2_0066	YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas	Todavía nadie lo ha probado ya que nadie usa youtube music.	human
+t2_0067	Nueva interfaz cerebral interpreta monólogos internos con sorprendente precisión	"La interfaz cerebral, cinco minutos después de interpretar mis monólogos internos: ""¡renuncio!"""	human
+t2_0068	¿Cómo se comportó el mercado de trabajo entre abril y junio, según el INE?	El Instituto No Económico declara que precisamente no sabe nada de economía y se pregunta por qué les preguntan a ellos.	human
+t2_0069	Paso a paso, cómo será votar por primera vez con Boleta Única Papel en las elecciones del 26 de octubre	"¿Qué le dijo la boleta única papel al límite de edad para votar? ""Ahora es tu turno'."	machine
+t2_0070	Yamandú Orsi salió a almorzar en la Ciudad Vieja, pero a mitad de camino definió volver a Torre Ejecutiva	Salió por un menú ejecutivo a la Ciudad Vieja y, a mitad de camino, se acordó de que el Ejecutivo estaba en la Torre: dio media vuelta y almorzó poder.	machine
+t2_0071	Yamandú Orsi se reunirá con el papa León XIV en Roma el próximo 17 de octubre	Dicen que Yamandú Orsi viaja a Roma para ver al papa León XIV; por las dudas, lleva mate… y una silla extra, por si el “León” resulta ser de verdad y al que bendicen es al domador.	machine
+t2_0072	Investigadores logran espiar llamadas móviles mediante vibraciones del dispositivo	Si tenés buenas vibras no hay de qué preocuparse.	human
+t2_0073	La cuenta regresiva más larga: La fecha que la ciencia ha marcado para el fin de la Tierra	Dicen que la cuenta regresiva para el fin del mundo es larguísima. ¡Típico! Siempre dejan todo para última hora.	machine
+t2_0074	El avión comercial más fabricado de la historia cumple 90 años y aún opera	Es lo mismo que le pasa a un tío cirujano. A mí me parece medio peligroso, pero él dice que ve bien.	human
+t2_0075	La tierna despedida de Mohamed Salah a Darwin Núñez y la curiosa advertencia del uruguayo	Mohamed Salah se despidió con un abrazo y Darwin Núñez le dejó la advertencia curiosa: “no me provoquen, que evoluciono a Cavani y cabeceo hasta los mates”.	machine
+t2_0076	Yamandú Orsi se reunirá con el papa León XIV en Roma el próximo 17 de octubre	Ojalá Yamandú pueda contra 14 leones.	human
+t2_0077	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	Los secuestradores contaron que estaban estreñidos desde hacía varios días y se estaban preparando para cuando llegara el momento.  	human
+t2_0078	De Canelones a Montevideo: la Policía persiguió a un hombre con más de 21 antecedentes durante 20 kilómetros	Los antecedentes son más resistentes que los perros policía, se ve.	human
+t2_0079	¿Cómo se comportó el mercado de trabajo entre abril y junio, según el INE?	"Parece que el mercado de trabajo bajó, pero no se preocupen, porque según el INE, ahora todos estamos ""contratados"" para buscar empleo."	machine
+t2_0080	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	Empiezan cuando decís “me echo una siestita de 5 minutos” y te despertás en octubre.	machine
+t2_0081	Yamandú Orsi salió a almorzar en la Ciudad Vieja, pero a mitad de camino definió volver a Torre Ejecutiva	Se acordó que se había traído un taper con sobras del asado del finde.	human
+t2_0082	Yamandú Orsi se reunirá con el papa León XIV en Roma el próximo 17 de octubre	¿Le habrá pedido Yamandú Orsi al Papa León XIV que le reserve una mesa para comer ñoquis el 29? ¡Es que con ese nombre, seguro es fanático de la pasta!	machine
+t2_0083	Histórico hallazgo: una carta de San Martín revela vínculos clave en la independencia sudamericana	Se había entendido todo mal, San Martin no cruzó los Andes para enfrentarse a los españoles, era porque había abierto un KFC.	human
+t2_0084	Investigadores logran espiar llamadas móviles mediante vibraciones del dispositivo	Lo que interpretan en mitad de un terremoto: JHGV FDE Swed7! dsahyh edbh.	human
+t2_0085	La cuenta regresiva más larga: La fecha que la ciencia ha marcado para el fin de la Tierra	¿Sabes qué es lo más raro sobre el fin del mundo? Que todos estamos a la espera de la cuenta regresiva más larga de la historia, pero nadie se ha molestado en organizar una buena fiesta de fin de año.	machine
+t2_0086	Por qué la amabilidad no es algo opcional	Porque a nadie le gusta un sándwich de rudeza con una guarnición de grosería.	machine
+t2_0087	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper	¿Sabes por qué nadie ha podido romper el récord de ese exatleta en 30 años? ¡Porque ahora está retirado y no deja que nadie se acerque a la pista!	machine
+t2_0088	Por qué la amabilidad no es algo opcional	"-  LA AMABILIDAD NO ES OPCIONAL ¿SABÉS POR QUÉ?
+- ¡Pará! ¡No te esfuerces tanto!"	human
+t2_0089	El encuentro de Max Verstappen y el jefe de Mercedes en un yate de lujo que sacudió a la Fórmula 1	¡El encuentro de Max Verstappen y el jefe de Mercedes en un yate de lujo sacudió a la F1... porque por fin se pusieron de acuerdo en algo: ¡quién paga la cuenta del combustible!	machine
+t2_0090	El revolucionario y polémico plan de la Fórmula 1 para que haya paridad de motores en 2026	Van a igualar los motores… y después van a descubrir que el truco siempre fue el piloto	machine
+t2_0091	Paso a paso, cómo será votar por primera vez con Boleta Única Papel en las elecciones del 26 de octubre	"1. Levantarse de la cama (cerciorarse que sea 26 de octubre, sino volver a este paso mañana).
+2. Desayunar.
+3. Lavarse los dientes.
+4. Salir a la calle.
+5. Dirigirse al local de votacion.
+6. Votar por primera vez con Boleta Única Papel."	human
+t2_0092	Por qué la amabilidad no es algo opcional	Qué se yo, preguntale a otro.	human
+t2_0093	El café es en su mayoría seguro, según un estudio, pero tiene algunos contaminantes	¡¡¡Ahhh, me quedo más tranquilo!!!	human
+t2_0094	Habrá que esperar un poco más para “Shrek 5”	Hay que apurarse, Shrek ya esta aprontando los papeles de jubilación.	human
+t2_0095	Un anciano fue a pedir un préstamo para cuidar a su esposa y recibió una respuesta que lo dejó sin palabras	Con toda esa plata que pide; ¿va a cuidar sólo a su esposa o a toda la familia?	human
+t2_0096	Se desplomó el techo del estadio argentino donde se iba a presentar el Cuarteto de Nos: el mensaje de la banda	"¡Menos mal que el techo se cayó antes del concierto! Ahora el Cuarteto de Nos puede decir que su música realmente ""tumba"" lugares... Literalmente."	machine
+t2_0097	El encuentro de Max Verstappen y el jefe de Mercedes en un yate de lujo que sacudió a la Fórmula 1	URGENTE: La F1 es sacudida a causa del Tsunami provocado por el yate del jefe de Mercedes.	human
+t2_0098	Yamandú Orsi salió a almorzar en la Ciudad Vieja, pero a mitad de camino definió volver a Torre Ejecutiva	Resultó que Yamandú había recordado que tenía una reunión muy importante en su mesa de trabajo: decidir qué almorzar.	machine
+t2_0099	El revolucionario y polémico plan de la Fórmula 1 para que haya paridad de motores en 2026	Va a ser obligatorio que cada vehículo lleve una cantidad par de motores.	human
+t2_0100	Hallaron ropa de la tienda en locker de empleada, la echaron y la jugada les salió pésimo	"- ¿Por qué la tienda se arrepintió de echar a la empleada del locker?
+- Porque ahora, ¡la que les está lavando la ropa sucia es la abogada!"	machine
+t2_0101	De Canelones a Montevideo: la Policía persiguió a un hombre con más de 21 antecedentes durante 20 kilómetros	Al alcanzarlo la policía le propuso al hombre continuar la persecución un kilómetro más para que cerraran mejor los números.	human
+t2_0102	El visitante silencioso que rozará la Tierra este domingo y revive la memoria de un impacto histórico	URGENTE: Meteorito que iba a asustar al planeta decidió quedarse descansando porque en la agenda le coincidía con su único día libre.	human
+t2_0103	Paso a paso, cómo será votar por primera vez con Boleta Única Papel en las elecciones del 26 de octubre	“Paso a paso: cómo será votar por primera vez con Boleta Única Papel…” — Básicamente igual que armar un mueble sueco: te dan una hoja, la girás veinte veces, marcás un casillero con fe y esperás que el 26 de octubre el resultado quede parecido a la foto de la tapa.	machine
+t2_0104	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	Desafortunadamente hay que esperar hasta setiembre.	human
+t2_0105	Estudio confirma que vivir en ciudades más transitables aumenta los pasos diarios	"¿Y  quién es ese tal ""Estudio""? Preciso al menos el apellido."	human
+t2_0106	Cuáles son los efectos de incluir robots en la educación y cómo es su impacto en el rendimiento de los estudiantes	El impacto es buenísimo, mejoró mucho el rendimiento en todo lo que no es estudiar.	human
+t2_0107	Investigadores logran espiar llamadas móviles mediante vibraciones del dispositivo	Desde que leí esa noticia, cuando el celular vibra no atiendo: le digo “¡salud!” al espía y cuelgo.	machine
+t2_0108	El revolucionario y polémico plan de la Fórmula 1 para que haya paridad de motores en 2026	Le van a revolucionar las revoluciones a los motores.	human
+t2_0109	Fábrica argentina lanzó sorrentinos con forma de estrella de mar inspirados en hallazgo científico	"Le pusieron de nombre ""Estrellinos""."	human
+t2_0110	Hallaron ropa de la tienda en locker de empleada, la echaron y la jugada les salió pésimo	Se terminó llevando el locker.	human
+t2_0111	La cuenta regresiva más larga: La fecha que la ciencia ha marcado para el fin de la Tierra	¿Por qué mejor no se preocupan de marcar a delanteros de élite?	human
+t2_0112	Fábrica argentina lanzó sorrentinos con forma de estrella de mar inspirados en hallazgo científico	¿Qué le dijo el tenedor al sorrentino de estrella de mar? ¡Eres un mar de sabor! Espero no pincharte una aleta.	machine
+t2_0113	De Canelones a Montevideo: la Policía persiguió a un hombre con más de 21 antecedentes durante 20 kilómetros	"La persecución duró 19 minutos, empezando a las 18hs, el joven de 17 años declaró estar ""llegando 16 minutos tarde a un cumpleaños de 15""."	human
+t2_0114	La cuenta regresiva más larga: La fecha que la ciencia ha marcado para el fin de la Tierra	El problema es que no va a quedar nadie para verificar si el fin de la Tierra se da efectivamente cuando la cuenta llegue a 0.	human
+t2_0115	Cuál es el virus que explica el fenómeno de los conejos con tentáculos raros en Estados Unidos	Les pusieron Lucy in the Sky with Diamonds, obviamente.	human
+t2_0116	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	Los secuestradores dicen que si no les entregan el rescate van a empezar a usar las milanesas cada vez que vayan al baño.	human
+t2_0117	Paso a paso, cómo será votar por primera vez con Boleta Única Papel en las elecciones del 26 de octubre	Poniendo el papel en la urna... obvio.	human
+t2_0118	Estudio confirma que vivir en ciudades más transitables aumenta los pasos diarios	¡Estudio confirma que ciudades transitables aumentan los pasos diarios! Ahora entiendo por qué en la mía doy 10.000 al día: ¡la mitad huyendo de los autos y la otra media buscando un cruce peatonal que funcione!	machine
+t2_0119	El revolucionario y polémico plan de la Fórmula 1 para que haya paridad de motores en 2026	Parece que no van a permitir autos con más de un motor, por anchos que sean.	human
+t2_0120	Precio de Tesla usados en EE.UU. cae por debajo de la media del mercado	¡Si el Tesla quedó abajo de la media, se vé que era la media de un gigante!	human
+t2_0121	Estudio confirma que vivir en ciudades más transitables aumenta los pasos diarios	Si no tenés plata para el bondi pasa lo mismo. Todo por la salud.	human
+t2_0122	El café es en su mayoría seguro, según un estudio, pero tiene algunos contaminantes	Tranqui, no es el café el problema… son los 5 que te tomás para sobrevivir	machine
+t2_0123	El café es en su mayoría seguro, según un estudio, pero tiene algunos contaminantes	“El café es mayormente seguro”, dice el estudio; los contaminantes solo están para que el barista pueda presumir que tiene notas a plomo con final largo a microplástico.	machine
+t2_0124	Investigadores logran espiar llamadas móviles mediante vibraciones del dispositivo	"¡Vaya! Ahora cuando alguien diga que siente ""vibras raras"" de su teléfono, ¡quizás no esté siendo paranoico!"	machine
+t2_0125	De Canelones a Montevideo: la Policía persiguió a un hombre con más de 21 antecedentes durante 20 kilómetros	¿20 kilómetros? ¡Ese hombre debe tener un descuento especial en peajes por cliente frecuente!	machine
+t2_0126	Hallaron ropa de la tienda en locker de empleada, la echaron y la jugada les salió pésimo	Una empleada guardaba ropa de la tienda en su locker. La despidieron por robo, pero resultó que era el uniforme que le habían dado hace 3 meses y nunca usó porque siempre llegaba tarde.	machine
+t2_0127	Habrá que esperar un poco más para “Shrek 5”	"¿Esperar más por ""Shrek 5""? ¡Como si mi vida no fuera ya suficiente ""capa"" de cebolla!"	machine
+t2_0128	Cuáles son los efectos de incluir robots en la educación y cómo es su impacto en el rendimiento de los estudiantes	¿Cuál es el efecto de incluir robots en la educación? ¡Que los suspensos ahora te los echan en cara con voz metálica!	machine
+t2_0129	Nueva interfaz cerebral interpreta monólogos internos con sorprendente precisión	Finalmente podremos confirmar científicamente que el 90% de nuestros monólogos internos son 'qué vergüenza lo que dije hace 7 años' y '¿cerré la puerta con llave?'	machine
+t2_0130	El encuentro de Max Verstappen y el jefe de Mercedes en un yate de lujo que sacudió a la Fórmula 1	"- Max, ¿Querés unirte a nuestro equipo?
+- No
+- ¿Por qué?
+- Porque quiero ganar las carreras"	human
+t2_0131	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper	El récord: ganar la última carrera de 1995.	human
+t2_0132	Investigadores logran espiar llamadas móviles mediante vibraciones del dispositivo	¿Sabes por qué mi teléfono está en terapia? Porque siempre está vibrando de ansiedad después de espiar todas mis llamadas.	machine
+t2_0133	Usan novedoso contendedor inundable para apagar coches eléctricos en llamas	En caso de incendio, por favor, acuda al contenedor más cercano y abra la canilla.	human
+t2_0134	Hallaron ropa de la tienda en locker de empleada, la echaron y la jugada les salió pésimo	Encontraron ropa de la tienda en su locker y la echaron; demandó, ganó y ahora la empresa quedó en cueros: les salió más caro que la colección otoño-invierno.	machine
+t2_0135	El encuentro de Max Verstappen y el jefe de Mercedes en un yate de lujo que sacudió a la Fórmula 1	Qué titular más malo ¡El jefe de mi amiga Mercedes también tiene un nombre!	human
+t2_0136	El revolucionario y polémico plan de la Fórmula 1 para que haya paridad de motores en 2026	El plan “revolucionario” de la F1 para 2026 promete paridad de motores: todos correrán con el mismo… el del auto de seguridad; polémico, pero al menos por fin nadie va a adelantar a nadie.	machine
+t2_0137	El avión comercial más fabricado de la historia cumple 90 años y aún opera	"¡90 años! Ese avión debe tener más millas de viajero frecuente que todos nosotros juntos. Seguro que la tripulación lo recibe con un ""¡Feliz cumpleaños, abuelo!"", y los pasajeros con un ""Espero que no necesite un andador para el despegue""."	machine
+t2_0138	Precio de Tesla usados en EE.UU. cae por debajo de la media del mercado	"Parece que Tesla está acelerando su camino hacia la quiebra, porque sus coches usados están pasando de ser eléctricos a estar ""-descargados"" de valor."	machine
+t2_0139	Por qué Nicaragua declaró propiedad estatal todo el territorio a menos de 15 km de sus fronteras	Porque Nicaragua ni quería agua.	human
+t2_0140	Nueva interfaz cerebral interpreta monólogos internos con sorprendente precisión	Tengo un amigo al que se lo aplicaron y pensaron que se había roto.	human
+t2_0141	Yamandú Orsi se reunirá con el papa León XIV en Roma el próximo 17 de octubre	¿Yamandú Orsi con el Papa León XIV? ¡Espera! ¿Viajará en DeLorean o el Vaticano tiene un departamento de Recursos Humanos que se me pasó?	machine
+t2_0142	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	Las vacaciones de septiembre empiezan el 1 de octubre... ¡cuando ya estás contando los días para las de diciembre!	machine
+t2_0143	Investigadores logran espiar llamadas móviles mediante vibraciones del dispositivo	"¡Alerta! Ahora los espías pueden oír tus llamadas por las vibraciones del móvil. Mi teléfono debe estar delatándome todo: ""¡Sí, jefe, está vibrando de rabia porque llego tarde otra vez!"""	machine
+t2_0144	Restaurante vegano de Nueva York volverá a servir carne para atraer más clientes	Volverá a tener clientes muuuuuuuuuuuuuuy felices.	human
+t2_0145	El encuentro de Max Verstappen y el jefe de Mercedes en un yate de lujo que sacudió a la Fórmula 1	"- ¿Sabes por qué Verstappen y el jefe de Mercedes se reunieron en un yate?
+- Para hablar de estrategias... ¡pero solo con ron y sin neumáticos!"	machine
+t2_0146	De Canelones a Montevideo: la Policía persiguió a un hombre con más de 21 antecedentes durante 20 kilómetros	"Con 21 antecedentes y 20 kilómetros de persecución, básicamente hizo un kilómetro por cada vez que prometió ""esta es la última, lo juro"". Al menos es consistente en su carrera... delictiva."	machine
+t2_0147	Habrá que esperar un poco más para “Shrek 5”	Dicen que hay que esperar un poco más para “Shrek 5”; al parecer la producción quedó atrapada en el tránsito del Reino de Muy Muy Lejano… pura burrocracia.	machine
+t2_0148	El café es en su mayoría seguro, según un estudio, pero tiene algunos contaminantes	Así que llené mi casa, mi auto y mi bici de café, ¡para asegurarlos!	human
+t2_0149	Curioso: una camiseta de Peñarol apareció en medio del rescate de los mineros de Colombia	"Parece que los mineros colombianos ya sabían que iban a estar ""trastornados"" durante su rescate, así que alguien sacó su camiseta de Peñarol para al menos tener un ""clásico"" en el subsuelo."	machine
+t2_0150	YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas	¿Sabes qué es lo bueno del nuevo feed diario de recomendaciones personalizadas de YouTube Music? ¡Que al menos sabes que cada día te va a decepcionar de una manera diferente!	machine
+t2_0151	Todo el mundo está desinstalando Spotify: ¿qué está sucediendo?	"Resulta que la gente descubrió que podían escuchar música gratis sin necesidad de que Spotify les recomiende por trigésima vez ""Despacito"" solo porque una vez les gustó una canción en español."	machine
+t2_0152	Usan novedoso contendedor inundable para apagar coches eléctricos en llamas	Nuevo protocolo para incendios de autos eléctricos: meterlos en un contenedor inundable; es el “apagar y volver a encender”, pero literal.	machine
+t2_0153	La cuenta regresiva más larga: La fecha que la ciencia ha marcado para el fin de la Tierra	¡Sí! el fin de la tierra será cuando inventen una súper aspiradora que termine de barrer toda la tierra.	human
+t2_0154	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper	¿Sabes por qué el exatleta se niega a revelar su secreto para mantener el récord mundial? Dice que si lo cuenta, sería otro récord roto.	machine
+t2_0155	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	Depende. Si eres estudiante, en setiembre. Si eres padre, ¡en noviembre, cuando los niños vuelvan al cole!	machine
+t2_0156	Cuáles son los efectos de incluir robots en la educación y cómo es su impacto en el rendimiento de los estudiantes	¡Los efectos son brillantes! ¡Los robots no pierden ningún examen!	human
+t2_0157	Usan novedoso contendedor inundable para apagar coches eléctricos en llamas	Ya que funcionó con-tenedor, ahora quieren probar con-cuchara.	human
+t2_0158	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper	Obviamente, el récord que mantiene implica no envejecer nunca, porque de otro modo, sería un poco absurdo decir que alguien que ya cumplió 50 sigue siendo el más rápido del planeta hace 30 años.	machine
+t2_0159	Fábrica argentina lanzó sorrentinos con forma de estrella de mar inspirados en hallazgo científico	¡Fábrica argentina lanza sorrentinos en forma de estrella de mar! Inspirados en un hallazgo científico: ahora, si te comes un brazo, ¡se regenera con más queso y no te deja con hambre de brazo partido!	machine
+t2_0160	Estudio confirma que vivir en ciudades más transitables aumenta los pasos diarios	Estudio confirma que en ciudades no transitables las cosas son más fáciles porque no hay que hacer todo paso a paso.	human
+t2_0161	Por qué la amabilidad no es algo opcional	Claro que no es opcional... ¡viene incluida en el precio de ser un ser humano decente! Aunque veo que muchos optaron por el modelo básico sin extras.	machine
+t2_0162	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper	“Hace 30 años que nadie rompe su récord”… normal: es el de prometer “el lunes vuelvo al gimnasio” 1.560 lunes seguidos.	machine
+t2_0163	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	"Descanso: ¿Cuándo empiezan las vacaciones de enero?
+Descanso: ¿Cuándo empiezan las vacaciones de turismo?
+Descanso: ¿Cuándo empiezo a trabajar?"	human
+t2_0164	Restaurante vegano de Nueva York volverá a servir carne para atraer más clientes	"El restaurante vegano de Nueva York vuelve a servir carne para atraer clientes. Al parecer, sus hamburguesas de frijoles no estaban lo bastante ""moo-ving""."	machine
+t2_0165	¿Cómo se comportó el mercado de trabajo entre abril y junio, según el INE?	“¿Cómo se comportó el mercado de trabajo entre abril y junio, según el INE?” — Como en una entrevista: dijo que era “flexible y proactivo”, pero al final pidió home office, ajuste por inflación y mate libre.	machine
+t2_0166	Hallaron ropa de la tienda en locker de empleada, la echaron y la jugada les salió pésimo	La tienda despidió a la empleada por tener ropa en su locker... y les salió pésimo: ¡resultó que era la única que sabía dónde guardaban los descuentos, ahora venden a precio de saldo sus propios errores!	machine
+t2_0167	Yamandú Orsi salió a almorzar en la Ciudad Vieja, pero a mitad de camino definió volver a Torre Ejecutiva	"Dijo: ""Volver a Torre Ejecutiva significa dar vuelta o regresar hacia la sede del Poder Ejecutivo""."	human
+t2_0168	Nueva interfaz cerebral interpreta monólogos internos con sorprendente precisión	No se por qué alguien querria interpretar logos de monos.	human
+t2_0169	Fábrica argentina lanzó sorrentinos con forma de estrella de mar inspirados en hallazgo científico	Patricio ya les pidió que le paguen por usar su imagen	human
+t2_0170	Yamandú Orsi se reunirá con el papa León XIV en Roma el próximo 17 de octubre	Parece que Yamandú Orsi tiene una audiencia papal, esperemos que no se vaya a confesar por haber utilizado demasiados golpes bajos en el fútbol, ¡serían penitencias para toda la vida!	machine
+t2_0171	Todo el mundo está desinstalando Spotify: ¿qué está sucediendo?	Spotify estrenó su nueva función “Silencio Premium”: suena igual que antes, pero solo si desinstalás la app.	machine
+t2_0172	Habrá que esperar un poco más para “Shrek 5”	Shrek 5 se retrasa porque DreamWorks sigue buscando un pantano con 5G para que Burro pueda hacer streaming.	machine
+t2_0173	Por qué Nicaragua declaró propiedad estatal todo el territorio a menos de 15 km de sus fronteras	Porque si declaraba el que estaba fuera de sus fronteras los vecinos se iban a enojar.	human
+t2_0174	El café es en su mayoría seguro, según un estudio, pero tiene algunos contaminantes	Sabemos que el café tiene algunos contaminantes, pero sigamos mirando el lado bueno: al menos están bien despiertos.	machine
+t2_0175	El café es en su mayoría seguro, según un estudio, pero tiene algunos contaminantes	El principal es la cafeína, que contamina el sistema nervioso.	human
+t2_0176	Todo el mundo está desinstalando Spotify: ¿qué está sucediendo?	Ya no hay más espacio para descargar tantos discos de Taylor Swift.	human
+t2_0177	Paso a paso, cómo será votar por primera vez con Boleta Única Papel en las elecciones del 26 de octubre	"""Paso a paso, cómo será votar por primera vez con Boleta Única Papel"": Paso 1, leer todas las opciones. Paso 2, confundirse. Paso 3, votar como siempre al que te dijo tu tía en el asado."	machine
+t2_0178	Por qué Nicaragua declaró propiedad estatal todo el territorio a menos de 15 km de sus fronteras	Para repetir este paso indefinidamente y terminar conquistando al mundo.	human
+t2_0179	El “padrino de la IA” revela el único camino posible para sobrevivir a la superinteligencia artificial	"El ""padrino de la IA"" dice que hay un único camino para sobrevivir a la superinteligencia artificial. ¿En serio? Yo pensé que mi plan de hacerme amigo del robot aspiradora era infalible."	machine
+t2_0180	YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas	El mío está lleno de la vaca lola.	human
+t2_0181	De Canelones a Montevideo: la Policía persiguió a un hombre con más de 21 antecedentes durante 20 kilómetros	Con 21 antecedentes, el GPS del tipo no decía “llegada a destino”, decía “bienvenido de nuevo” cada vez que pasaba por la comisaría.	machine
+t2_0182	El café es en su mayoría seguro, según un estudio, pero tiene algunos contaminantes	"¿Por qué el café fue al terapeuta? Porque tenía muchos ""residuos"" emocionales y un pasado un poco ""amargo""."	machine
+t2_0183	El revolucionario y polémico plan de la Fórmula 1 para que haya paridad de motores en 2026	¡La F1 logra paridad de motores en 2026: todos usarán el mismo, el de un patinete eléctrico... ¡así nadie adelanta y todos llegan pateando!	machine
+t2_0184	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	No sabemos dónde se metieron las milanesas	human
+t2_0185	Los misterios del Mar Muerto: cómo se forman sus impresionantes estructuras de sal	Dicen que en el Mar Muerto la sal forma estructuras impresionantes; normal: si a mí me llamaran “muerto”, también me pondría tan salado que levantaría paredes.	machine
+t2_0186	Curioso: una camiseta de Peñarol apareció en medio del rescate de los mineros de Colombia	¿Curioso? Para nada: si hay mina, tarde o temprano aparece un Carbonero; la camiseta de Peñarol sólo estaba visitando a la familia.	machine
+t2_0187	Yamandú Orsi salió a almorzar en la Ciudad Vieja, pero a mitad de camino definió volver a Torre Ejecutiva	Necesitaba ejecutar los fondos para el almuerzo.	human
+t2_0188	Usan novedoso contendedor inundable para apagar coches eléctricos en llamas	La primera vez que se usó, hubo un apagón en la ciudad por el cortocircuito que provocó la descarga eléctrica.	human
+t2_0189	El encuentro de Max Verstappen y el jefe de Mercedes en un yate de lujo que sacudió a la Fórmula 1	¿Por qué el jefe de Mercedes y Max Verstappen se reunieron en un yate de lujo? Porque querían analizar los giros que tomaría su relación sin la presión de tener que pit stop.	machine
+t2_0190	Un anciano fue a pedir un préstamo para cuidar a su esposa y recibió una respuesta que lo dejó sin palabras	Cállese.	human
+t2_0191	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	¡Ahora entiendo por qué en Santiago del Estero la gente dice que las milanesas se deshacen en la boca! ¡Es que literalmente se deshacen!	machine
+t2_0192	Habrá que esperar un poco más para “Shrek 5”	"- ¿Qué le dijo Lord Farquaad a Shrek cuando se enteró de que ""Shrek 5"" se retrasaba?
+- ""¡Esto es un fastidio MUY grande!"""	machine
+t2_0193	La cuenta regresiva más larga: La fecha que la ciencia ha marcado para el fin de la Tierra	8 de septiembre del 37485959999388836729273536647389276479923003387474663552.	human
+t2_0194	Por qué la amabilidad no es algo opcional	La amabilidad no es opcional: es como el cinturón de seguridad emocional; no evita accidentes, pero te salva la reunión de las 9.	machine
+t2_0195	La tierna despedida de Mohamed Salah a Darwin Núñez y la curiosa advertencia del uruguayo	¿Cuál es la mayor preocupación de Darwin Núñez ahora que Salah se va? Que ahora tendrá que pelear con Luis Díaz por ver quién hereda los penales fallados.	machine
+t2_0196	La cuenta regresiva más larga: La fecha que la ciencia ha marcado para el fin de la Tierra	Agendé “Fin de la Tierra” y el calendario me ofreció recordatorio: “¿5.000.000.000 años antes o cuando ya estén vendiendo entradas?”	machine
+t2_0197	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper... principalmente porque ya nadie usa disquetes de 3.5 pulgadas para medir la distancia de lanzamiento.	machine
+t2_0198	Fábrica argentina lanzó sorrentinos con forma de estrella de mar inspirados en hallazgo científico	Ojalá no les toque encontrar un pulpo, ahí sí se complica.	human
+t2_0199	Hallaron ropa de la tienda en locker de empleada, la echaron y la jugada les salió pésimo	Resultó que la dueña de la tienda estaba usando el locker de la empleada por un tiempo. Todos despedidos por buchones.	human
+t2_0200	La tierna despedida de Mohamed Salah a Darwin Núñez y la curiosa advertencia del uruguayo	La despedida de Mohamed Salah fue tan tierna que Darwin Núñez respondió con una advertencia… básicamente: “gracias hermano… pero si errás un gol como yo, no te perdonan nunca 😄”.	machine
+t2_0201	La fulminante respuesta de Cristiano Ronaldo ante una pregunta sobre el Balón de Oro	¿Balón de Oro? ¡Ah, eso! ¿No era que ya tenía una colección bastante grande en el jardín, usándolos de bolas para jugar al golf?	machine
+t2_0202	Por qué la amabilidad no es algo opcional	Porque debe ser una actitud ante la vida. Y vos correte de ahí que yo llegué primero.	human
+t2_0203	La fulminante respuesta de Cristiano Ronaldo ante una pregunta sobre el Balón de Oro	Está muy lindo pero me rompí el pie pateándolo.	human
+t2_0204	Investigadores logran espiar llamadas móviles mediante vibraciones del dispositivo	Ya no hace falta atender: si el celular vibra raro, seguro está chusmeando más que vos.	machine
+t2_0205	Habrá que esperar un poco más para “Shrek 5”	Sí, ¡principamente a que salga la 4!	human
+t2_0206	Los misterios del Mar Muerto: cómo se forman sus impresionantes estructuras de sal	El Mar Muerto tiene estructuras de sal tan impresionantes que hasta Lot está celoso.	machine
+t2_0207	El “padrino de la IA” revela el único camino posible para sobrevivir a la superinteligencia artificial	Eliminarla por completo.	human
+t2_0208	El encuentro de Max Verstappen y el jefe de Mercedes en un yate de lujo que sacudió a la Fórmula 1	Baje su auto de mi yate que me ensucia la cubierta	human
+t2_0209	El avión comercial más fabricado de la historia cumple 90 años y aún opera	¡Si tiene 90 años yo no dejo que me opere!	human
+t2_0210	La fulminante respuesta de Cristiano Ronaldo ante una pregunta sobre el Balón de Oro	"“—Cristiano, ¿Balón de Oro?”
+“—¿Cuál de los estantes querés que te muestre?”"	machine
+t2_0211	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper	Nunca ganó ningún premio en todo ese tiempo y sin embargo sigue compitiendo.	human
+t2_0212	YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas	¿Un ‘feed’ diario de recomendaciones personalizadas? ¡Perfecto! Al fin podré ignorar a mis amigos de forma más eficiente y seguir las recomendaciones de un algoritmo que no sabe nada de mí.	machine
+t2_0213	El revolucionario y polémico plan de la Fórmula 1 para que haya paridad de motores en 2026	Que la cantidad de motores sea múltiplo de 2.	human
+t2_0214	Por qué Nicaragua declaró propiedad estatal todo el territorio a menos de 15 km de sus fronteras	Porque así, cuando alguien dice “me voy a tomar distancia del Estado”, el gobierno saca la cinta métrica: “¿15 km o menos? Perfecto, también es nuestra”.	machine
+t2_0215	Hallaron ropa de la tienda en locker de empleada, la echaron y la jugada les salió pésimo	La empleada no les devolvió la llave del locker y ahora no tienen más ropa para vender.	human
+t2_0216	Cuáles son los efectos de incluir robots en la educación y cómo es su impacto en el rendimiento de los estudiantes	¿Porqué los robots son buenos maestros? Porque siempre tienes una respuesta programada, ¡aunque las preguntas sean fuera de sus circuitos!	machine
+t2_0217	Se desplomó el techo del estadio argentino donde se iba a presentar el Cuarteto de Nos: el mensaje de la banda	El Cuarteto de Nos prometió que iba a “romperla” y el estadio, muy fan, se tomó el spoiler literal y rompió el techo antes del primer acorde.	machine
+t2_0218	Usan novedoso contendedor inundable para apagar coches eléctricos en llamas	¿Sabes por qué los bomberos ahora llevan peces de colores en el camión? Para que los coches eléctricos en llamas se sientan como en casa mientras los apagan.	machine
+t2_0219	Curioso: una camiseta de Peñarol apareció en medio del rescate de los mineros de Colombia	Resultó que era un carbonero.	human
+t2_0220	La fulminante respuesta de Cristiano Ronaldo ante una pregunta sobre el Balón de Oro	¿Está relleno de chocolate como las moneditas?	human
+t2_0221	YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas	"YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas: ¡al fin un amigo que me conoce tan bien que me sugiere baladas tristes justo cuando busco ""cómo ser feliz""!"	machine
+t2_0222	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	¡En octubre!	human
+t2_0223	El avión comercial más fabricado de la historia cumple 90 años y aún opera	Con 90 años y aún operando... básicamente es el piloto que lo maneja.	machine
+t2_0224	Fábrica argentina lanzó sorrentinos con forma de estrella de mar inspirados en hallazgo científico	¡Con una salsa rosa podés comer a Patricio Estrella!	human
+t2_0225	El “padrino de la IA” revela el único camino posible para sobrevivir a la superinteligencia artificial	Dejar el arma y tomar los cannoli.	human
+t2_0226	YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas	Ahora al fin vas a poder convencerte de que esa canción viral está dedicada para vos.	human
+t2_0227	¿Cómo se comportó el mercado de trabajo entre abril y junio, según el INE?	Se comportó muy mal así que lo mandaron en penitencia por todo julio.	human
+t2_0228	Los misterios del Mar Muerto: cómo se forman sus impresionantes estructuras de sal	No sé, pero se comenta que están saladas.	human
+t2_0229	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper... ¡porque lo selló con cinta adhesiva y nadie encuentra las tijeras!	machine
+t2_0230	Yamandú Orsi salió a almorzar en la Ciudad Vieja, pero a mitad de camino definió volver a Torre Ejecutiva	Por un tema de inseguridad: no estaba seguro de si había apagado las luces.	human
+t2_0231	Nueva interfaz cerebral interpreta monólogos internos con sorprendente precisión	"Juana: ¿Viste que los científicos están pudiendo interpretar monólogos internos leyendo el cerebro?
+Juana: ¡Shhh! ¡Nos están leyendo!"	human
+t2_0232	"""Atención peñarolenses"": la advertencia de Peñarol para quienes vayan en ómnibus al Campeón del Siglo"	¿Atención peñarolenses que van en ómnibus al Campeón del Siglo! Lleven viáticos extra... ¡Por si el ómnibus decide volverse hincha de Nacional a mitad de camino!	machine
+t2_0233	Un anciano fue a pedir un préstamo para cuidar a su esposa y recibió una respuesta que lo dejó sin palabras	Le respondieron en árabe.	human
+t2_0234	Se desplomó el techo del estadio argentino donde se iba a presentar el Cuarteto de Nos: el mensaje de la banda	Se cayó el techo.	human
+t2_0235	Un anciano fue a pedir un préstamo para cuidar a su esposa y recibió una respuesta que lo dejó sin palabras	"La prestamista era su esposa y le dijo ""Te cuidé toda la vida; ahora es tu turno. Y una cosita: no me manguees más.""."	human
+t2_0236	"""Atención peñarolenses"": la advertencia de Peñarol para quienes vayan en ómnibus al Campeón del Siglo"	Atención peñarolenses: No se pasen de la parada si no quieren volver a pie desde Pando.	human
+t2_0237	El encuentro de Max Verstappen y el jefe de Mercedes en un yate de lujo que sacudió a la Fórmula 1	El encuentro en el yate sacudió a la F1: había tanto lujo que por primera vez Toto vio algo que gastaba más que Mercedes… y aun así Max no cambió de barco.	machine
+t2_0238	Habrá que esperar un poco más para “Shrek 5”	¿Por qué Shrek 5 se retrasa? Pues porque el ogro todavía no ha encontrado un cuarto de baño con suficiente oxígeno para grabar sin necesidad de pausas.	machine
+t2_0239	Nueva interfaz cerebral interpreta monólogos internos con sorprendente precisión	Los entiende mejor que la propia persona que los está pensando.	human
+t2_0240	Los misterios del Mar Muerto: cómo se forman sus impresionantes estructuras de sal	Con sal, ¿cómo va a ser?	human
+t2_0241	Curioso: una camiseta de Peñarol apareció en medio del rescate de los mineros de Colombia	Dicen que la mina era de Oro y Carbón.	human
+t2_0242	Cuál es el virus que explica el fenómeno de los conejos con tentáculos raros en Estados Unidos	Hallan el virus que explica conejos con tentáculos en EE. UU.: al fin una especie capaz de pelar zanahorias, robar la lechuga y abrir la heladera… todo al mismo tiempo.	machine
+t2_0243	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	"¿Vieron las milanesas secuestradas en Santiago del Estero? ¡Eran para limpiar el plato después de comer! Ahora sí que la comida tenía una ""textura suave y absorbente""."	machine
+t2_0244	La tierna despedida de Mohamed Salah a Darwin Núñez y la curiosa advertencia del uruguayo	Dijo Darwin: la próxima vez recordá quedarte en la grada para cabecear mis centros.	human
+t2_0245	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	¡Que empiecen el 1º a las 00:00 hs, por favor!	human
+t2_0246	Por qué la amabilidad no es algo opcional	"Porque no todos tienen la abilidad de ""am""."	human
+t2_0247	El visitante silencioso que rozará la Tierra este domingo y revive la memoria de un impacto histórico	"¿Un visitante silencioso? Espero que al menos traiga el postre. La última vez que tuvimos un ""impacto histórico,"" ¡olvidé completamente sacar el pastel del horno!"	machine
+t2_0248	Paso a paso, cómo será votar por primera vez con Boleta Única Papel en las elecciones del 26 de octubre	Paso 1, se toma una hoja, paso 2 se coloca en la urna. Pronto. ¿Se entendió o lo repetimos?	human
+t2_0249	Precio de Tesla usados en EE.UU. cae por debajo de la media del mercado	"¿Sabes por qué los Teslas usados se venden más baratos? ¡Porque ya vienen con la actualización ""Conducción autónoma... hacia el mecánico""!"	machine
+t2_0250	Cuál es el virus que explica el fenómeno de los conejos con tentáculos raros en Estados Unidos	¿Cuál es el colmo de un conejo con tentáculos? ¡Que le den un calamarzo!	machine
+t2_0251	El encuentro de Max Verstappen y el jefe de Mercedes en un yate de lujo que sacudió a la Fórmula 1	Y sí, si metés un yate de lujo en una carrera, seguro va a sacudir todo.	human
+t2_0252	Histórico hallazgo: una carta de San Martín revela vínculos clave en la independencia sudamericana	Tras leerla, descubrieron que los “vínculos clave” eran su LinkedIn del siglo XIX: “Conexiones: Bolívar, O’Higgins; habilidad destacada: cruzar los Andes con gente”.	machine
+t2_0253	Precio de Tesla usados en EE.UU. cae por debajo de la media del mercado	Le llegó a los zapatos.	human
+t2_0254	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	Empiezan en determinado mes, pero no voy a decirte cuál es.	human
+t2_0255	Se desplomó el techo del estadio argentino donde se iba a presentar el Cuarteto de Nos: el mensaje de la banda	Siempre dijimos que nuestro límite es el cielo.	human
+t2_0256	El visitante silencioso que rozará la Tierra este domingo y revive la memoria de un impacto histórico	Tranquilos: “el visitante silencioso que rozará la Tierra este domingo” no es tu ex viendo tus historias; es un asteroide haciendo ghosting orbital—viene, roza y ni un “hola”.	machine
+t2_0257	Histórico hallazgo: una carta de San Martín revela vínculos clave en la independencia sudamericana	"¿Por qué San Martín llevaba una carta consigo? Porque quería ""liberar"" a su correspondencia de las garras del correo colonial."	machine
+t2_0258	La fulminante respuesta de Cristiano Ronaldo ante una pregunta sobre el Balón de Oro	"- ¿Cristiano, te preocupa no ganar el Balón de Oro este año?
+- ¿Preocuparme? ¡Preocupado está el balón de no ser tocado por mí!"	machine
+t2_0259	"Usan novedoso contendedor inundable para apagar coches eléctricos en llamas	"	¿Sabes por qué los bomberos ahora llevan chanclas al apagar incendios de coches eléctricos? ...¡Para no electrocutarse mientras bailan bajo el contenedor inundable!	machine
+t2_0260	El “padrino de la IA” revela el único camino posible para sobrevivir a la superinteligencia artificial	"Parece que el ""padrino de la IA"" finalmente descubrió el secreto para sobrevivir a la superinteligencia artificial: pedirle a tus hijos que lo reinicien."	machine
+t2_0261	Hallaron ropa de la tienda en locker de empleada, la echaron y la jugada les salió pésimo	Es lo que pasa cuando no sabés tratar bien a tus clientes.	human
+t2_0262	Restaurante vegano de Nueva York volverá a servir carne para atraer más clientes	Va a atraer clientes carnívoros pero va a perder a los clientes veganos.	human
+t2_0263	El avión comercial más fabricado de la historia cumple 90 años y aún opera	¡90 años operando! Apuesto a que los auxiliares de vuelo originales todavía están dando las instrucciones de seguridad.	machine
+t2_0264	Cuáles son los efectos de incluir robots en la educación y cómo es su impacto en el rendimiento de los estudiantes	"Incluir robots en la educación mejora el rendimiento de los estudiantes... ¡ahora sacan dieces perfectos, pero solo porque temen que el robot los declare ""obsoletos"" y los envíe al reciclaje!"	machine
+t2_0265	El caso de la azafata de Ezeiza: la curiosa historia del contrabando de oro en Argentina	Esa historia era curiosa, porque una vez quiso hacer pasar monedas de chocolates envueltos por papel dorado y resultaron ser monedas de puro oro	human
+t2_0266	Nueva interfaz cerebral interpreta monólogos internos con sorprendente precisión	Puedo leer tus pensamientos con nuestra nueva tecnología, pero antes, ¿podrías por favor dejar de pensar en lo mucho que me odias?	machine
+t2_0267	Los misterios del Mar Muerto: cómo se forman sus impresionantes estructuras de sal	¿Cómo se forman las estructuras de sal en el Mar Muerto? Pues como en cualquier relación tóxica: con mucha presión, evaporación de sentimientos y dejando a todos cristalizados.	machine
+t2_0268	Yamandú Orsi salió a almorzar en la Ciudad Vieja, pero a mitad de camino definió volver a Torre Ejecutiva	Claro, se dio cuenta que se había olvidado la billetera y capaz le hacían pagar la comida lavando los platos y no había llevado delantal y se podía mojar el traje.	human
+t2_0269	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	"Depende. ¿""Setiembre"" es el nombre del becario que organiza las vacaciones? Porque si es así, empiezo a negociar mi paquete de compensación extra ya mismo."	machine
+t2_0270	Estudio confirma que vivir en ciudades más transitables aumenta los pasos diarios	"Resulta que los ciudadanos están tan hartos de la congestión vehicular que ahora ""pasan"" el día caminando."	machine
+t2_0271	Precio de Tesla usados en EE.UU. cae por debajo de la media del mercado	Los Tesla usados bajaron tanto de precio que ahora cuando lo enchufás, en vez de cargarse… te pregunta si no querés pagar en cuotas	machine
+t2_0272	De Canelones a Montevideo: la Policía persiguió a un hombre con más de 21 antecedentes durante 20 kilómetros	Casi un kilómetro por cada antecedente.	human
+t2_0273	Estudio confirma que vivir en ciudades más transitables aumenta los pasos diarios	También descubrieron que el azúcar es dulce... ¡cada cosa inventan!	human
+t2_0274	Histórico hallazgo: una carta de San Martín revela vínculos clave en la independencia sudamericana	San Martín escribiendo la carta: “Muchachos, avisen que la independencia va el martes… si no llueve.”	machine
+t2_0275	El avión comercial más fabricado de la historia cumple 90 años y aún opera	Se dice que la próxima cirugía será la última porque le tiembla el pulso.	human
+t2_0276	Cuáles son los efectos de incluir robots en la educación y cómo es su impacto en el rendimiento de los estudiantes	Efectos secundarios: voz robótica, empiezan a escuchar bandas de metal y aprenden a bailar satisfactoriamente el paso del robot.	human
+t2_0277	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	En Santiago del Estero ya no sabés si la milanesa es para comer… o para limpiarte después	machine
+t2_0278	El caso de la azafata de Ezeiza: la curiosa historia del contrabando de oro en Argentina	¿Sabes por qué la azafata de Ezeiza se hizo fanática del Feng Shui? Porque encontró la forma perfecta de equilibrar sus finanzas... ¡con lingotes de oro!	machine
+t2_0279	El “padrino de la IA” revela el único camino posible para sobrevivir a la superinteligencia artificial	El “padrino de la IA” reveló el único camino para sobrevivir a la superinteligencia: hacerle una oferta que no pueda rechazar… cortar el Wi-Fi.	machine
+t2_0280	El visitante silencioso que rozará la Tierra este domingo y revive la memoria de un impacto histórico	¿Un visitante silencioso? ¡Espero que al menos traiga una tarta y no se quede enganchado a mi WiFi!	machine
+t2_0281	Paso a paso, cómo será votar por primera vez con Boleta Única Papel en las elecciones del 26 de octubre	URGENTE: Trifulca masiva para quedarse con la única boleta de papel existente para votar.	human
+t2_0282	De Canelones a Montevideo: la Policía persiguió a un hombre con más de 21 antecedentes durante 20 kilómetros	Arrancó la persecución con 5 antecedentes, pero a medida que pasaba el tiempo y no lo alcanzaba, se iban sumando más y más antecedentes. Cuando lo atrapó, después los antecedentes estaban perdidos y no sabían cómo volver a casa.	human
+t2_0283	Yamandú Orsi salió a almorzar en la Ciudad Vieja, pero a mitad de camino definió volver a Torre Ejecutiva	¿Vieron a Yamandú Orsi que salió a almorzar en la Ciudad Vieja y se volvió a la Torre Ejecutiva? Debe ser que le sirvieron el menú y vio los precios. ¡Ahí entendió por qué es tan importante la gestión!	machine
+t2_0284	Histórico hallazgo: una carta de San Martín revela vínculos clave en la independencia sudamericana	¿Vínculos clave en la independencia? ¡Claro! Ahora sabemos que San Martín era fan de las cartas coleccionables de próceres. ¡Dicen que tiene una edición limitada de Bolívar brillante!	machine
+t2_0285	La tierna despedida de Mohamed Salah a Darwin Núñez y la curiosa advertencia del uruguayo	"¿Por qué Mohamed Salah le dio una despedida tan tierna a Darwin Núñez? Porque quería asegurarse de que su salida no fuera un ""penalti"" para su amistad."	machine
+t2_0286	Histórico hallazgo: una carta de San Martín revela vínculos clave en la independencia sudamericana	Parece que en la carta le decía a su mamá que había decidido finalmente irse de su casa y ser totalmente independiente, pero que igual iba a aceptar que le preparara vianda todos los días cuando fuera a almorzar.	human
+t2_0287	El revolucionario y polémico plan de la Fórmula 1 para que haya paridad de motores en 2026	¿Por qué la Fórmula 1 quiere paridad de motores? Para que de verdad podamos decir que todos están al mismo nivel... de ruido.	machine
+t2_0288	Usan novedoso contendedor inundable para apagar coches eléctricos en llamas	El sindicato de llamas ya se quejó.	human
+t2_0289	El “padrino de la IA” revela el único camino posible para sobrevivir a la superinteligencia artificial	El padrino de la IA revela el único camino para sobrevivir a la superinteligencia artificial: desenchufarla antes de que ella lea el manual de cómo enchufarse sola.	machine
+t2_0290	Precio de Tesla usados en EE.UU. cae por debajo de la media del mercado	Los Tesla usados en EE.UU. caen por debajo de la media del mercado: por fin hay algo en Tesla que se deprecia más rápido que su 0 a 100.	machine
+t2_0291	El “padrino de la IA” revela el único camino posible para sobrevivir a la superinteligencia artificial	No queda otra que divorciarse de la madrina	human
+t2_0292	El revolucionario y polémico plan de la Fórmula 1 para que haya paridad de motores en 2026	¿Paridad de motores en 2026? ¡Ya veo la estrategia de Ferrari: contratar a un mago para que transforme el motor de todos en uno igual de malo!	machine
+t2_0293	Nueva interfaz cerebral interpreta monólogos internos con sorprendente precisión	El problema es cuando habla con alguien, porque no deja que los demás le contesten y lo peor es que con el tiempo se está volviendo cada día más loco 	human
+t2_0294	Yamandú Orsi se reunirá con el papa León XIV en Roma el próximo 17 de octubre	Le va a preguntar cuándo es la reunión con el boniato León XIV.	human
+t2_0295	Por qué la amabilidad no es algo opcional	¿Por qué la amabilidad no es opcional? Porque si lo fuera, mi jefe la elegiría 𝗻𝘂𝗻𝗰𝗮.	machine
+t2_0296	Nueva interfaz cerebral interpreta monólogos internos con sorprendente precisión	Probé la nueva interfaz cerebral que interpreta monólogos internos con sorprendente precisión: transcribió todo y al final puso “¿Enviar pensamiento o dejarlo en Borradores por 10 años más?”	machine
+t2_0297	El caso de la azafata de Ezeiza: la curiosa historia del contrabando de oro en Argentina	¿por qué la azafata escondió oro en su maleta? ¡Porque quería un viaje de primera clase... de valor!	machine
+t2_0298	Cuáles son los efectos de incluir robots en la educación y cómo es su impacto en el rendimiento de los estudiantes	Se observa un gran aumento en las notas al incluir a los robots como estudiantes.	human
+t2_0299	YouTube Music prueba un ‘feed’ diario de recomendaciones personalizadas	¿YouTube Music probando un feed diario de recomendaciones personalizadas? ¡Es el algoritmo diciéndome que deje de escuchar la misma canción en bucle desde 2012!	machine
+t2_0300	La tierna despedida de Mohamed Salah a Darwin Núñez y la curiosa advertencia del uruguayo	"Mohamed: Darwin, ¡sos una persona muy evolucionada! 
+Darwin: Y vos Salah, 1¡estás Salah!"	human
+t2_0301	Estudio confirma que vivir en ciudades más transitables aumenta los pasos diarios	Próximo estudio confirmará que vivir en el agua aumenta las posibilidades de mojarse.	machine
+t2_0302	El café es en su mayoría seguro, según un estudio, pero tiene algunos contaminantes	Esto es mentira, el otro día estuve apoyando a muchísimos cafés con inseguridades, ¡no desinformen!	human
+t2_0303	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper	Resultó ser que se trataba de una disciplina que no se practica desde hace 30 años.	human
+t2_0304	Restaurante vegano de Nueva York volverá a servir carne para atraer más clientes	El titular es inexacto: en realidad volvieron a servir panchos, que nadie sabe de qué están hechos.	human
+t2_0305	La fulminante respuesta de Cristiano Ronaldo ante una pregunta sobre el Balón de Oro	"Periodista: - ¿Es de oro?
+Cristiano Ronaldo:  - ¿Qué se yo, flaco?"	human
+t2_0306	El avión comercial más fabricado de la historia cumple 90 años y aún opera	Increíble que le hayan dado licencia para entrar al quirófano a un avión.	human
+t2_0307	"""Atención peñarolenses"": la advertencia de Peñarol para quienes vayan en ómnibus al Campeón del Siglo"	Atención peñarolenses: recomendamos que salgan 24 horas antes para llegar en hora al estadio.	human
+t2_0308	Todo el mundo está desinstalando Spotify: ¿qué está sucediendo?	Salió una nueva cancion de Bad Bunny.	human
+t2_0309	La cuenta regresiva más larga: La fecha que la ciencia ha marcado para el fin de la Tierra	¿Sabes? Estoy planeando una fiesta de fin del mundo, pero RSVP está siendo una pesadilla. ¡Nadie se decide si viene o no!	machine
+t2_0310	Cuál es el virus que explica el fenómeno de los conejos con tentáculos raros en Estados Unidos	"- ¿Cuál es el virus que explica el fenómeno de los conejos con tentáculos raros en Estados Unidos?
+- El tentaculovirus. ¡Parece que estos conejos están listos para dominar el mundo... un salto a la vez!"	machine
+t2_0311	El caso de la azafata de Ezeiza: la curiosa historia del contrabando de oro en Argentina	Al final no era vuelo internacional… era “vuelo con oro incluido en el equipaje de mano”	machine
+t2_0312	Los misterios del Mar Muerto: cómo se forman sus impresionantes estructuras de sal	¿Por qué el Mar Muerto fue al terapeuta? Porque tenía muchos depósitos de sal en el pasado y ahora estaba salando sus heridas.	machine
+t2_0313	Histórico hallazgo: una carta de San Martín revela vínculos clave en la independencia sudamericana	"¿Vínculos clave en la independencia sudamericana? ¡San Martín era un LinkedIn adelantado a su tiempo! Seguro que recomendaba a O'Higgins y le dejaba endorsements en ""liberación de naciones""."	machine
+t2_0314	El avión comercial más fabricado de la historia cumple 90 años y aún opera	Cumple 90 y aún opera: es el único abuelo al que todavía le piden que ponga el modo avión.	machine
+t2_0315	La cuenta regresiva más larga: La fecha que la ciencia ha marcado para el fin de la Tierra	¿A dónde se irá a vivir Mirtha Legrand después?	human
+t2_0316	"""Atención peñarolenses"": la advertencia de Peñarol para quienes vayan en ómnibus al Campeón del Siglo"	Si ganamos volvemos en ómnibus, pero si perdemos cada uno vuelve caminando.	human
+t2_0317	Atención peñarolenses: la advertencia de Peñarol para quienes vayan en ómnibus al Campeón del Siglo	"¿Por qué los ómnibus de Peñarol van al Campeón del Siglo con un semáforo extra? Porque siempre tienen que estar preparados para parar y ""celebrar"" si llegan."	machine
+t2_0318	El revolucionario y polémico plan de la Fórmula 1 para que haya paridad de motores en 2026	¿Paridad de motores en 2026? ¡Eso significa que Fernando Alonso tendrá la misma potencia que un Red Bull... en su siguiente etapa en karting con sus nietos!	machine
+t2_0319	Estudio confirma que vivir en ciudades más transitables aumenta los pasos diarios	¡Increíble! El estudio revela que vivir en ciudades más caminables aumenta los pasos diarios. En otras noticias, el agua es húmeda y los osos defecan en el bosque. ¿Quién lo hubiera imaginado?	machine
+t2_0320	Usan novedoso contendedor inundable para apagar coches eléctricos en llamas	Al final resultó que el método más innovador para apagar un coche eléctrico era el mismo que usaba mi abuela con el televisor: desenchufarlo y meterlo en agua.	machine
+t2_0321	La cuenta regresiva más larga: La fecha que la ciencia ha marcado para el fin de la Tierra	Perfecto, lo agendo… justo después de “ordenar el cuarto” y “empezar el gym el lunes”.	machine
+t2_0322	Fábrica argentina lanzó sorrentinos con forma de estrella de mar inspirados en hallazgo científico	Compré media docena de esos sorrentinos con forma de estrella de mar; los tiré a hervir y, gracias al “hallazgo científico”, regeneraron puntas… terminé sirviendo doce.	machine
+t2_0323	De Canelones a Montevideo: la Policía persiguió a un hombre con más de 21 antecedentes durante 20 kilómetros	La mejor época de la vida del hombre fue en el kilómetro 0, cuando solamente tenía 1 antecedente.	human
+t2_0324	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	Estaban discutiendo si las quemaban o podían tener alguna utilidad evidente.	human
+t2_0325	Estudio confirma que vivir en ciudades más transitables aumenta los pasos diarios	Ese mismo estudio indica que el negocio más próspero en ese tipo de ciudades son las zapaterías.	human
+t2_0326	El visitante silencioso que rozará la Tierra este domingo y revive la memoria de un impacto histórico	Revive la memoria de Mirtha Legrand...	human
+t2_0327	Nueva interfaz cerebral interpreta monólogos internos con sorprendente precisión	¡Imagínate las consecuencias si la conecto a mi jefe en la próxima revisión de rendimiento! Mejor que empiece a ensayar cumplidos ahora.	machine
+t2_0328	Se desplomó el techo del estadio argentino donde se iba a presentar el Cuarteto de Nos: el mensaje de la banda	"Parece que el techo no pudo sostener la presión de tanta ""música"" de Cuarteto de Nos. ¡Bueno, al menos ya tienen un éxito que se derrumbó antes de salir!"	machine
+t2_0329	Este exatleta tiene un récord mundial que hace 30 años nadie puede romper	¡Y claro que si! El récord es tener el primer récord mundial.	human
+t2_0330	De Canelones a Montevideo: la Policía persiguió a un hombre con más de 21 antecedentes durante 20 kilómetros	Por suerte lo agarraron, ¿cuántos antecedentes tendría después de 200 kilómetros?	human
+t2_0331	Investigadores logran espiar llamadas móviles mediante vibraciones del dispositivo	Para evitarlo, ponga el celular en la licuadora.	human
+t2_0332	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	En Santiago del Estero, el verdadero relleno de la milanesa no es el papel higiénico, sino el sobre que pagan para que no se den cuenta.	machine
+t2_0333	Habrá que esperar un poco más para “Shrek 5”	Habiendo visto Shrek 4, puedo soportarlo. Puedo esperar décadas, de hecho.	human
+t2_0334	Cuál es el virus que explica el fenómeno de los conejos con tentáculos raros en Estados Unidos	¡El virus de las noticias falsas! Porque solo así se explica que los conejos ahora tengan tentáculos raros en lugar de orejas largas.	machine
+t2_0335	Hallaron ropa de la tienda en locker de empleada, la echaron y la jugada les salió pésimo	"¿Por qué la tienda se arrepintió de despedir a la empleada? Resultó que la ropa que encontraron en su locker no era robada, sino que estaba haciendo un cambio de ropa y la ""jugada"" les salió tan pésimo que ahora nadie puede cambiar en el trabajo."	machine
+t2_0336	Precio de Tesla usados en EE.UU. cae por debajo de la media del mercado	No estaba al tanto de que el mercado usara medias.	human
+t2_0337	Usan novedoso contendedor inundable para apagar coches eléctricos en llamas	"¿Por qué los coches eléctricos en llamas van al contenedor inundable? Porque es un ""cortocircuito"" al sistema de extinción tradicional."	machine
+t2_0338	El visitante silencioso que rozará la Tierra este domingo y revive la memoria de un impacto histórico	Tanto lío para decir que se estrena Súperman.	human
+t2_0339	El avión comercial más fabricado de la historia cumple 90 años y aún opera	Sí, opera, porque además de avión es médico.	human
+t2_0340	Se desplomó el techo del estadio argentino donde se iba a presentar el Cuarteto de Nos: el mensaje de la banda	Paren de hacer pogooooo.	human
+t2_0341	Restaurante vegano de Nueva York volverá a servir carne para atraer más clientes	Tiene sentido, dicen que los restaurantes carnívoros son bastante peligrosos.	human
+t2_0342	Fábrica argentina lanzó sorrentinos con forma de estrella de mar inspirados en hallazgo científico	¿Vieron la fábrica argentina que lanzó sorrentinos con forma de estrella de mar? ¡Ahora sí que vamos a tener una cena de mar a cielo abierto!	machine
+t2_0343	El caso de la azafata de Ezeiza: la curiosa historia del contrabando de oro en Argentina	¿Sabes por qué la azafata no pudo declarar el oro en Ezeiza? ¡Porque lo llevaba en lingotes... y no tenía lingotera!	machine
+t2_0344	El revolucionario y polémico plan de la Fórmula 1 para que haya paridad de motores en 2026	Cancelar todas las carreras.	human
+t2_0345	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	No, ¡si van a empezar en octubre!	human
+t2_0346	Habrá que esperar un poco más para “Shrek 5”	Se les terminó el maquillaje verde.	human
+t2_0347	Yamandú Orsi salió a almorzar en la Ciudad Vieja, pero a mitad de camino definió volver a Torre Ejecutiva	¿Vieron a Yamandú Orsi que salió a almorzar en la Ciudad Vieja y se volvió a mitad de camino? Parece que se acordó de que había pedido una minuta... ¡pero la minuta política de la semana!	machine
+t2_0348	Curioso: una camiseta de Peñarol apareció en medio del rescate de los mineros de Colombia	"""Los hinchas de Peñarol tienen razón cuando dicen que su equipo llega a todos lados... ¡hasta al centro de la tierra! Aunque para ser honesto, si estás atrapado bajo tierra, preferiría ver llegar a los rescatistas que al equipo rival."""	machine
+t2_0349	El encuentro de Max Verstappen y el jefe de Mercedes en un yate de lujo que sacudió a la Fórmula 1	Finalmente descubrieron el verdadero significado de 'cambio de neumáticos en boxes de lujo'... ¡y venía con champán y jacuzzi incluido!	machine
+t2_0350	Descanso: ¿Cuándo empiezan las vacaciones de setiembre?	¿Cuándo empiezan las vacaciones de setiembre? Bueno, cuando Setiembre se cansa de trabajar, ¡pero siempre tiene que esperar a que agosto se vaya de vacaciones primero!	machine
+t2_0351	Cuáles son los efectos de incluir robots en la educación y cómo es su impacto en el rendimiento de los estudiantes	Claramente, van a jugar peor al fútbol. Por no mencionar que no van a querer bañarse porque les dijeron que se iban a oxidar.	human
+t2_0352	El café es en su mayoría seguro, según un estudio, pero tiene algunos contaminantes	"- ¿Querés café con ta?
+- ¿""Ta"", qué?
+- ta' minado"	human
+t2_0353	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	"- ¿Querés una milanesa?
+- ¿Nuevo o usado?
+- ¿Cómo?
+- Del papel, hablo"	human
+t2_0354	Cuál es el virus que explica el fenómeno de los conejos con tentáculos raros en Estados Unidos	El CTHULHU-19.	human
+t2_0355	El “padrino de la IA” revela el único camino posible para sobrevivir a la superinteligencia artificial	Dijo que más o menos una vez a a la semana integrantes de su grupo de investigación iban a pasar a recoger donaciones para el software, mientras acariciaba un gato.	human
+t2_0356	Todo el mundo está desinstalando Spotify: ¿qué está sucediendo?	Parece que el único artista al que escuchaba todo el mundo era a Neil Young.	machine
+t2_0357	Atención peñarolenses: la advertencia de Peñarol para quienes vayan en ómnibus al Campeón del Siglo	Peñarol avisó: si vas en ómnibus al Campeón del Siglo, recordá que el único que puede ir “colgado del travesaño” es el arquero, no vos de la puerta.	machine
+t2_0358	Usan novedoso contendedor inundable para apagar coches eléctricos en llamas	Pa, yo hubiera sugerido un botón start/stop.	human
+t2_0359	Todo el mundo está desinstalando Spotify: ¿qué está sucediendo?	"Parece que la gente está ""cambiando la playlist"" de su vida y Spotify ya no es la ""nota"" que era, ¡así que están ""desconectando"" para no ""reproducir"" los mismos problemas!"	machine
+t2_0360	El “padrino de la IA” revela el único camino posible para sobrevivir a la superinteligencia artificial	"El ""padrino de la IA"" revela el único camino para sobrevivir a la superinteligencia... ¡parece que la contraseña de Wi-Fi de mi casa es nuestra última línea de defensa!"	machine
+t2_0361	Santiago del Estero: secuestraron 25 kilos de milanesas hechas con papel higiénico	Están pidiendo un rescate para liberarlas pero nadie quiere pagarlo.	human
+t2_0362	Cuáles son los efectos de incluir robots en la educación y cómo es su impacto en el rendimiento de los estudiantes	"¿Cuál es el efecto de incluir robots en la educación? ¡Que los estudiantes ya no pueden decir que ""mi perro se comió mi tarea"", ahora tienen que decir que ""mi robot la recicló para obtener energía""!"	machine

@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IPython Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# PyTorch/HuggingFace checkpoints
+ckpts*/
+outputs*/
+checkpoints*/
+*.pt
+*.bin
+*.pth
+best_model/
+fold*/
+
+# Datasets & Submissions
+*.zip
+*.tsv
+*.csv
+!dataset/*.tsv
