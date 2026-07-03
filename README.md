@@ -2,7 +2,7 @@
 
 **LINK SHARED TASK:** https://www.codabench.org/competitions/14700/
 **DATASET** Join HAHA Shared Task → https://codalab.lisn.upsaclay.fr/competitions/14700/ -> Find dataset in **Files** section.
-![alt text](image.png)
+![alt text](find_dataset.png)
 This repository contains the cleaned project materials for our **HAHA @ IberLEF 2026** submission on two binary text classification tasks:
 
 - **Subtask 1 — Satirical News Detection**: classify a Spanish news headline as **`satirical`** or **`real`**.
